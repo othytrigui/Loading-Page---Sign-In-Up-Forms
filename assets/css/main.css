@@ -37,7 +37,7 @@ a {
 .signin {
     width: 30%;
     background: linear-gradient(141deg, #6E79D1 0%, #7987FF 51%, #6779FF 75%);
-    opacity: 0.9;
+    opacity: 1;
     margin: 0 0 0px 18% !important;
     border-radius: 5px;
     float: left;
@@ -250,7 +250,7 @@ input[type="button"]:hover {
 .signup {
     width: 30%;
     background: linear-gradient(141deg, #7080FF 0%, #8A96FF 51%, #5E70FF 75%);
-    opacity: 0.9;
+    opacity: 1;
     margin: 0 18% 0 0! important;
     border-radius: 5px;
     float: right;
